@@ -1,0 +1,5 @@
+source/vendor
+source/includes/db_connect.php
+source/includes/email_config.php
+source/hotel_db.sql
+source/database_schema.sql
