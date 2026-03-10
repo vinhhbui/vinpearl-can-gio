@@ -12,7 +12,7 @@ A comprehensive hotel management and online booking system, built primarily with
 1. **Reservation Management:** Delivers a smooth booking flow—from checking room availability and selecting check-in/check-out dates to confirming customer details. The system automatically updates room statuses in real-time to prevent overbooking.
 2. **Centralized Database:** All information regarding room types, amenities, transaction history, and customer data is structurally stored via `hotel_db.sql`. This ensures easy data retrieval, streamlined statistical reporting, and robust data integrity.
 3. **Authentication & Authorization:** Strictly separates access levels between regular visitors (Guests) and the management team (Admin/Staff). This guarantees that sensitive operations, such as modifying room rates or accessing revenue reports, are restricted to authorized personnel only.
-4. **Performance & Scalability:** Developed using PHP, the project's architecture is designed for easy maintenance and future scalability. Additional modules (e.g., online payment gateways, HR management) can be integrated seamlessly. Detailed business logic and system architecture specifications are thoroughly documented in the `doc.docx` file.
+4. **Performance & Scalability:** Developed using PHP, the project's architecture is designed for easy maintenance and future scalability. Additional modules (e.g., online payment gateways, HR management) can be integrated seamlessly. Detailed business logic and system architecture specifications are thoroughly documented in the `System Design Document.docx` file.
 
 ---
 
